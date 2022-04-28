@@ -14,12 +14,12 @@ https://github.com/TomLingham/Laravel-Searchy/tree/1.0
 
 ## Installation
 
-Add `"tom-lingham/searchy" : "2.*"` to your composer.json file under `require`:
+Add `"todayqq/searchy" : "2.*"` to your composer.json file under `require`:
 
 ```json
 "require": {
   "laravel/framework": "5.*",
-  "tom-lingham/searchy" : "2.*"
+  "todayqq/searchy" : "2.*"
 }
 ```
 
