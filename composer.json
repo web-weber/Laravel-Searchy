@@ -1,12 +1,12 @@
 {
-    "name": "tom-lingham/searchy",
+    "name": "todayqq/searchy",
     "description": "Laravel Searchy makes user driven searching easy with fuzzy search, basic string matching, Levenshtein Distance and more.",
     "keywords": ["laravel","search","fuzzy"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Tom Lingham",
-            "email": "tjlingham@gmail.com"
+            "name": "angkee",
+            "email": "angkee@qq.com"
         }
     ],
     "require": {
