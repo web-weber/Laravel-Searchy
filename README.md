@@ -6,20 +6,16 @@ Searchy is an; easy-to-use, light-weight, MySQL only, Laravel package that makes
 It uses pseudo fuzzy searching and other weighted mechanics depending on the search driver that you have enabled.
 It requires no other software installed on your server (so can be a little slower than dedicated search programs) but can be set up and ready to go in minutes.
 
-#### !! Laravel 4 !!
-
-Looking for Laravel 4 compatible Searchy? Checkout the 1.0 branch :)
-
-https://github.com/TomLingham/Laravel-Searchy/tree/1.0
+#### Support PHP 8.0 version
 
 ## Installation
 
-Add `"todayqq/searchy" : "2.*"` to your composer.json file under `require`:
+Add `"todayqq/searchy" : "3.1"` to your composer.json file under `require`:
 
 ```json
 "require": {
   "laravel/framework": "5.*",
-  "todayqq/searchy" : "2.*"
+  "todayqq/searchy" : "3.1"
 }
 ```
 
